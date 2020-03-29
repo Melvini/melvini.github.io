@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">melvini</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2020-03-29T15:26:38+08:00</updated>
+    <updated>2020-03-29T15:58:23+08:00</updated>
     <id>https://melvini.com/</id>
     <link rel="alternate" type="text/html" href="https://melvini.com/" />
     <link rel="self" type="application/atom+xml" href="https://melvini.com/atom.xml" />
@@ -339,10 +339,10 @@ $ supervisorctl update
         </entry>
     
         <entry>
-            <title type="text">微小的幸福感</title>
-            <link rel="alternate" type="text/html" href="https://melvini.com/life/%E5%BE%AE%E5%B0%8F%E7%9A%84%E5%B9%B8%E7%A6%8F%E6%84%9F/" />
-            <id>https://melvini.com/life/%E5%BE%AE%E5%B0%8F%E7%9A%84%E5%B9%B8%E7%A6%8F%E6%84%9F/</id>
-            <updated>2020-03-28T21:09:26+08:00</updated>
+            <title type="text">追寻真正的自由，然后享受生命</title>
+            <link rel="alternate" type="text/html" href="https://melvini.com/life/%E8%BF%BD%E5%AF%BB%E7%9C%9F%E6%AD%A3%E7%9A%84%E8%87%AA%E7%94%B1%E7%84%B6%E5%90%8E%E4%BA%AB%E5%8F%97%E7%94%9F%E5%91%BD/" />
+            <id>https://melvini.com/life/%E8%BF%BD%E5%AF%BB%E7%9C%9F%E6%AD%A3%E7%9A%84%E8%87%AA%E7%94%B1%E7%84%B6%E5%90%8E%E4%BA%AB%E5%8F%97%E7%94%9F%E5%91%BD/</id>
+            <updated>2020-03-29T15:57:56+08:00</updated>
             <published>2019-07-02T22:46:16+08:00</published>
             <author>
                     <name>melvini</name>
@@ -351,15 +351,14 @@ $ supervisorctl update
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     
-    <summary type="html"><![CDATA[​ 最近在微博上看到了一篇文章，讲到了作家三毛和她的一名读者之间的来信： 读者工作好多年……]]></summary>
+    <summary type="html"><![CDATA[最近在微博上看到了一篇文章，讲到了作家三毛和她的一名读者之间的来信： 读者工作好多年了……]]></summary>
             
-                <content type="html"><![CDATA[<p>​　　最近在微博上看到了一篇文章，讲到了作家三毛和她的一名读者之间的来信：</p>
+                <content type="html"><![CDATA[<p>　　最近在微博上看到了一篇文章，讲到了作家三毛和她的一名读者之间的来信：</p>
 <blockquote>
 <p>　　读者工作好多年了，在一家公司从事着最底层的职位，下班后，回到自己租的斗室里，面对物质和精神相当贫乏的人生，她很自卑，觉得活着的价值...。</p>
 <p>　　三毛回复说，当她看到来信时很惊讶，她觉得读者正当年轻之时，却用底层、贫乏、自卑等形容自己。三毛也谈到自己对人生价值的理解：寻求真正的自由，然后享受生命。随后她说道：如果她是读者，首先她会布置一下自己的“斗室”，花上一点小钱，给房间买一些装饰品并稍微打扮下自己，然后她会利用下班后的时间，去报名学一门自己感兴趣的爱好，慢慢的她的人生也在改变，上课的时候或许会交到一些朋友，偶尔可以请朋友到她的小房间一起聊生活和理想...</p>
 </blockquote>
-<p>　　其实很多人都经历过与这名读者类似的生活，我也曾仿徨过，特别是大学刚毕业出来工作的那一两年里，不管是来自工作、生活上的事情，都感到很焦虑、无奈，甚至很自责。这个阶段持续了很长一段时间，乃至我现在时常会陷入这一困境。最后我能想到的是：放过自己。多想一些令人快乐的事情，或许此时你的心情便不会这么糟糕，而且生活中有那么有意思的事情可以做，那么从现在开始就可以行动起来。</p>
-<p>​　　生活中确实没有那么多的快乐，幸福感的停留一般都很短暂，而负面情绪所带来的困扰却能伴随很长一段时间。拿什么去抵挡这些负面情绪呢？拿你能想到的和现在所能拥有的快乐去抵挡。记录下这些短暂的快乐，那么即使现在或未来的你遭受了人生的低谷，这些微小的幸福感或许会让你鼓起勇气，去寻求更美好的生活。</p>
+<p>　　其实很多人都经历过与这名读者类似的生活，工作、生活上的事情，会让人焦虑、无奈。然而生命并不只有这些，也就像三毛所说的：追寻真正的自由，然后享受生命。</p>
 <p>​</p>
 ]]></content>
             
