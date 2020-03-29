@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">melvini</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2020-03-29T23:34:21+08:00</updated>
+    <updated>2020-03-29T23:42:07+08:00</updated>
     <id>https://melvini.com/</id>
     <link rel="alternate" type="text/html" href="https://melvini.com/" />
     <link rel="self" type="application/atom+xml" href="https://melvini.com/atom.xml" />
@@ -1540,6 +1540,52 @@ foreach (getRows($file) as $row) {
                             
                             
                                 <category scheme="https://melvini.com/tags/diary/" term="diary" label="diary" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">回忆小屋</title>
+            <link rel="alternate" type="text/html" href="https://melvini.com/notes/%E5%9B%9E%E5%BF%86%E5%B0%8F%E5%B1%8B/" />
+            <id>https://melvini.com/notes/%E5%9B%9E%E5%BF%86%E5%B0%8F%E5%B1%8B/</id>
+            <updated>2020-03-29T23:41:46+08:00</updated>
+            <published>2017-12-15T10:45:50+08:00</published>
+            <author>
+                    <name>melvini</name>
+                    <uri>https://melvini.com/</uri>
+                    <email>allen897577@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html"><![CDATA[回忆就像剥洋葱，总有一层会让你落泪]]></summary>
+            
+                <content type="html"><![CDATA[<p>　　回忆就像剥洋葱，总有一层会让你落泪</p>
+<p><img src="/media/p2.jpg" alt="p2"></p>
+<p><img src="/media/p1.jpg" alt="p2"></p>
+]]></content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://melvini.com/categories/notes/" term="notes" label="notes" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://melvini.com/tags/movie/" term="movie" label="movie" />
                             
                         
                     

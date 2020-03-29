@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sun, 29 Mar 2020 23:34:21 +0800</lastBuildDate>
+        <lastBuildDate>Sun, 29 Mar 2020 23:42:07 +0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss+xml" href="https://melvini.com/rss.xml" />
         
@@ -1492,6 +1492,49 @@ foreach (getRows($file) as $row) {
                                 
                                 
                                     <category domain="https://melvini.com/tags/diary/">diary</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>回忆小屋</title>
+                <link>https://melvini.com/notes/%E5%9B%9E%E5%BF%86%E5%B0%8F%E5%B1%8B/</link>
+                <guid isPermaLink="true">https://melvini.com/notes/%E5%9B%9E%E5%BF%86%E5%B0%8F%E5%B1%8B/</guid>
+                <pubDate>Fri, 15 Dec 2017 10:45:50 +0800</pubDate>
+                
+                    <author>allen897577@gmail.com (melvini)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description><![CDATA[<p>　　回忆就像剥洋葱，总有一层会让你落泪</p>
+<p><img src="/media/p2.jpg" alt="p2"></p>
+<p><img src="/media/p1.jpg" alt="p2"></p>
+]]></description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://melvini.com/categories/notes/">notes</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://melvini.com/tags/movie/">movie</category>
                                 
                             
                         
