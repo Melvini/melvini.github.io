@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sun, 29 Mar 2020 15:23:54 +0800</lastBuildDate>
+        <lastBuildDate>Sun, 29 Mar 2020 15:26:38 +0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss+xml" href="https://melvini.com/rss.xml" />
         
@@ -1562,42 +1562,18 @@ git push -f
 </span><span class="lnt">4
 </span><span class="lnt">5
 </span><span class="lnt">6
-</span><span class="lnt">7
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-bash" data-lang="bash">配置远程仓库
+<pre class="chroma"><code class="language-bash" data-lang="bash"><span class="c1"># 配置远程仓库</span>
 git remote add origin https://url
 
-再添加一个远程仓库
+<span class="c1"># 再添加一个远程仓库</span>
 git remote set-url --add origin https://url
 
-
 </code></pre></td></tr></table>
 </div>
-</div><p>在 .git/config 里查看是否添加成功</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
-</span><span class="lnt">3
-</span><span class="lnt">4
-</span><span class="lnt">5
-</span><span class="lnt">6
-</span><span class="lnt">7
-</span><span class="lnt">8
-</span></code></pre></td>
-<td class="lntd">
-<pre class="chroma"><code class="language-bash" data-lang="bash">
-…
-<span class="o">[</span>remote “origin”<span class="o">]</span>
-<span class="nv">url</span> <span class="o">=</span> <span class="o">[</span>https://coding.net/u/niefengjun/p/blog_es6/git<span class="o">](</span>https://coding.net/u/niefengjun/p/blog_es6/git<span class="o">)</span>
-<span class="nv">url</span> <span class="o">=</span> <span class="o">[</span>https://github.com/niefengjun/boke<span class="o">](</span>https://github.com/niefengjun/boke<span class="o">)</span>
-…
-<span class="o">[</span>branch “master”<span class="o">]</span>
-<span class="nv">remote</span> <span class="o">=</span> origin
-</code></pre></td></tr></table>
-</div>
-</div>]]></description>
+</div><p>可以在 .git/config 里查看是否添加成功</p>
+]]></description>
                 
                 
                 

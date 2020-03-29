@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">melvini</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2020-03-29T15:23:54+08:00</updated>
+    <updated>2020-03-29T15:26:38+08:00</updated>
     <id>https://melvini.com/</id>
     <link rel="alternate" type="text/html" href="https://melvini.com/" />
     <link rel="self" type="application/atom+xml" href="https://melvini.com/atom.xml" />
@@ -1514,7 +1514,7 @@ $stmt-&gt;bindParam(2, $value);
             <title type="text">一些常用的git命令</title>
             <link rel="alternate" type="text/html" href="https://melvini.com/coding/git%E6%93%8D%E4%BD%9C/" />
             <id>https://melvini.com/coding/git%E6%93%8D%E4%BD%9C/</id>
-            <updated>2020-03-29T15:23:23+08:00</updated>
+            <updated>2020-03-29T15:25:04+08:00</updated>
             <published>2017-06-29T16:39:35+08:00</published>
             <author>
                     <name>melvini</name>
@@ -1605,42 +1605,18 @@ git push -f
 </span><span class="lnt">4
 </span><span class="lnt">5
 </span><span class="lnt">6
-</span><span class="lnt">7
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-bash" data-lang="bash">配置远程仓库
+<pre class="chroma"><code class="language-bash" data-lang="bash"><span class="c1"># 配置远程仓库</span>
 git remote add origin https://url
 
-再添加一个远程仓库
+<span class="c1"># 再添加一个远程仓库</span>
 git remote set-url --add origin https://url
 
-
 </code></pre></td></tr></table>
 </div>
-</div><p>在 .git/config 里查看是否添加成功</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
-</span><span class="lnt">3
-</span><span class="lnt">4
-</span><span class="lnt">5
-</span><span class="lnt">6
-</span><span class="lnt">7
-</span><span class="lnt">8
-</span></code></pre></td>
-<td class="lntd">
-<pre class="chroma"><code class="language-bash" data-lang="bash">
-…
-<span class="o">[</span>remote “origin”<span class="o">]</span>
-<span class="nv">url</span> <span class="o">=</span> <span class="o">[</span>https://coding.net/u/niefengjun/p/blog_es6/git<span class="o">](</span>https://coding.net/u/niefengjun/p/blog_es6/git<span class="o">)</span>
-<span class="nv">url</span> <span class="o">=</span> <span class="o">[</span>https://github.com/niefengjun/boke<span class="o">](</span>https://github.com/niefengjun/boke<span class="o">)</span>
-…
-<span class="o">[</span>branch “master”<span class="o">]</span>
-<span class="nv">remote</span> <span class="o">=</span> origin
-</code></pre></td></tr></table>
-</div>
-</div>]]></content>
+</div><p>可以在 .git/config 里查看是否添加成功</p>
+]]></content>
             
             
             
