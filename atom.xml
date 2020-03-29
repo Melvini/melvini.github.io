@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">melvini</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2020-03-29T20:50:05+08:00</updated>
+    <updated>2020-03-29T23:34:21+08:00</updated>
     <id>https://melvini.com/</id>
     <link rel="alternate" type="text/html" href="https://melvini.com/" />
     <link rel="self" type="application/atom+xml" href="https://melvini.com/atom.xml" />
@@ -451,7 +451,7 @@ $ supervisorctl update
             <title type="text">幸福感的重要性</title>
             <link rel="alternate" type="text/html" href="https://melvini.com/life/%E5%B9%B8%E7%A6%8F%E6%84%9F%E7%9A%84%E9%87%8D%E8%A6%81%E6%80%A7/" />
             <id>https://melvini.com/life/%E5%B9%B8%E7%A6%8F%E6%84%9F%E7%9A%84%E9%87%8D%E8%A6%81%E6%80%A7/</id>
-            <updated>2020-03-29T16:24:45+08:00</updated>
+            <updated>2020-03-29T23:10:58+08:00</updated>
             <published>2019-07-02T22:46:16+08:00</published>
             <author>
                     <name>melvini</name>
@@ -467,7 +467,7 @@ $ supervisorctl update
 <p>　　读者工作好多年了，在一家公司从事着最底层的职位，下班后，回到自己租的斗室里，面对物质和精神相当贫乏的人生，她很自卑，觉得活着的价值...。</p>
 <p>　　三毛回复说，当她看到来信时很惊讶，她觉得读者正当年轻之时，却用底层、贫乏、自卑等形容自己。三毛也谈到自己对人生价值的理解：寻求真正的自由，然后享受生命。随后她说道：如果她是读者，首先她会布置一下自己的“斗室”，花上一点小钱，给房间买一些装饰品并稍微打扮下自己，然后她会利用下班后的时间，去报名学一门自己感兴趣的爱好，慢慢的她的人生也在改变，上课的时候或许会交到一些朋友，偶尔可以请朋友到她的小房间一起聊生活和理想...</p>
 </blockquote>
-<p>　　其实很多人有过类似的遭遇。在生活、工作中往往会遇到不幸的事，此时焦虑、无奈等负面情绪控制了我们的大脑，甚至会影响他人。如何抵抗这些负面情绪呢，正如三毛给读者建议的，拿你目前能想到的方法。要知道，生命中还有很多有趣的事值得我们去追寻与思考。</p>
+<p>　　其实很多人有过类似的遭遇。在生活、工作中往往会遇到不幸的事，此时焦虑、无奈等负面情绪控制了我们的大脑，甚至会影响他人。如何抵抗这些负面情绪呢，正如三毛给读者建议的，拿你目前能想到的方法：寻找那些能让你感到幸福感的人或事。要知道，生命中还有很多有趣的事值得我们去追寻与思考。</p>
 <p>​</p>
 ]]></content>
             
@@ -1490,6 +1490,56 @@ foreach (getRows($file) as $row) {
                             
                             
                                 <category scheme="https://melvini.com/tags/alfred/" term="alfred" label="alfred" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">活在当下</title>
+            <link rel="alternate" type="text/html" href="https://melvini.com/life/%E6%B4%BB%E5%9C%A8%E5%BD%93%E4%B8%8B/" />
+            <id>https://melvini.com/life/%E6%B4%BB%E5%9C%A8%E5%BD%93%E4%B8%8B/</id>
+            <updated>2020-03-29T23:33:27+08:00</updated>
+            <published>2018-03-18T22:46:16+08:00</published>
+            <author>
+                    <name>melvini</name>
+                    <uri>https://melvini.com/</uri>
+                    <email>allen897577@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    
+    <summary type="html"><![CDATA[这世上唯有病痛和亲友去世是真切的痛楚，其他都是不必要的伤感。是忽略了当下拥有的一切的……]]></summary>
+            
+                <content type="html"><![CDATA[<p><img src="/media/livet.jpg" alt="活在当下"></p>
+<p>这世上唯有病痛和亲友去世是真切的痛楚，其他都是不必要的伤感。是忽略了当下拥有的一切的贪婪。&quot;
+说得太好了。
+有时候我们痛苦，也是因为现实距离目标太远，而本来，现实已经十分美好</p>
+<p>​</p>
+]]></content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://melvini.com/categories/life/" term="life" label="life" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://melvini.com/tags/diary/" term="diary" label="diary" />
                             
                         
                     
