@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">melvini</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2020-03-31T23:21:48+08:00</updated>
+    <updated>2020-04-05T22:33:06+08:00</updated>
     <id>https://melvini.com/</id>
     <link rel="alternate" type="text/html" href="https://melvini.com/" />
     <link rel="self" type="application/atom+xml" href="https://melvini.com/atom.xml" />
@@ -901,6 +901,60 @@ $api-&gt;post(&#39;main&#39;, &#39;mainController&#39;)
                                 <category scheme="https://melvini.com/tags/laravel/" term="laravel" label="laravel" />
                             
                         
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">葱花鸡蛋饼</title>
+            <link rel="alternate" type="text/html" href="https://melvini.com/cook/%E8%91%B1%E8%8A%B1%E9%B8%A1%E8%9B%8B%E9%A5%BC/" />
+            <id>https://melvini.com/cook/%E8%91%B1%E8%8A%B1%E9%B8%A1%E8%9B%8B%E9%A5%BC/</id>
+            <updated>2020-04-05T22:21:00+08:00</updated>
+            <published>2019-03-18T22:46:16+08:00</published>
+            <author>
+                    <name>melvini</name>
+                    <uri>https://melvini.com/</uri>
+                    <email>allen897577@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    
+    <summary type="html"><![CDATA[用料 鸡蛋：4个 面粉：140g（适量即可，注意鸡蛋与面粉的比例即可，本人会多放鸡蛋，味……]]></summary>
+            
+                <content type="html"><![CDATA[<p><img src="/media/jidanbing.png" alt="鸡蛋饼"></p>
+<h3 id="用料">用料</h3>
+<ul>
+<li>鸡蛋：4个</li>
+<li>面粉：140g（适量即可，注意鸡蛋与面粉的比例即可，本人会多放鸡蛋，味道更好些）</li>
+<li>葱花、盐、水（适量即可）</li>
+</ul>
+<h4 id="步骤">步骤</h4>
+<ol>
+<li>鸡蛋打匀</li>
+<li>碗中：加入面粉、打匀的鸡蛋液</li>
+<li>添加水、盐，至浓稠度适中，加入葱花，搅拌均匀</li>
+<li>锅内放少许油，将鸡蛋面糊沿着锅，绕一圈倒入</li>
+<li>用锅铲，将面糊往锅中心铺匀</li>
+<li>小火慢煎，反复翻面</li>
+</ol>
+<p>​</p>
+]]></content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://melvini.com/categories/cook/" term="cook" label="cook" />
+                            
+                        
+                    
+                
                     
                 
             
