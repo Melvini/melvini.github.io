@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Mon, 06 Apr 2020 11:27:34 +0800</lastBuildDate>
+        <lastBuildDate>Mon, 06 Apr 2020 11:32:49 +0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss+xml" href="https://melvini.com/rss.xml" />
         
@@ -137,7 +137,8 @@
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
-                    <description><![CDATA[<h3 id="用料">用料</h3>
+                    <description><![CDATA[<p><img src="/media/tangbao.png" alt="灌汤包"></p>
+<h3 id="用料">用料</h3>
 <ul>
 <li>
 <p>猪皮冻</p>
@@ -167,15 +168,9 @@
 </ul>
 <h3 id="步骤">步骤</h3>
 <ul>
-<li>
-<p>包包子</p>
-</li>
-<li>
-<p>包子尽量放在可以一个一个装的盒子里，套上保鲜膜。这样做是为了防止汤包裂开</p>
-</li>
-<li>
-<p>蒸包子：5-10min，速冻过的汤包，蒸的时间会长些</p>
-</li>
+<li>包包子（<a href="https://www.xiachufang.com/recipe/100578257/">参考</a>）</li>
+<li>包子尽量放在可以一个一个装的盒子里，套上保鲜膜。这样做是为了防止汤包裂开</li>
+<li>蒸包子：5-10min，速冻过的汤包，蒸的时间会长些</li>
 </ul>
 <p>​</p>
 ]]></description>
