@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">melvini</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2020-04-06T11:56:38+08:00</updated>
+    <updated>2020-04-14T23:00:28+08:00</updated>
     <id>https://melvini.com/</id>
     <link rel="alternate" type="text/html" href="https://melvini.com/" />
     <link rel="self" type="application/atom+xml" href="https://melvini.com/atom.xml" />
@@ -17,10 +17,180 @@
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.65.3">Hugo</generator>
         <entry>
+            <title type="text">千层蛋糕</title>
+            <link rel="alternate" type="text/html" href="https://melvini.com/cook/%E5%8D%83%E5%B1%82%E8%9B%8B%E7%B3%95/" />
+            <id>https://melvini.com/cook/%E5%8D%83%E5%B1%82%E8%9B%8B%E7%B3%95/</id>
+            <updated>2020-04-14T22:58:34+08:00</updated>
+            <published>2020-03-18T22:46:16+08:00</published>
+            <author>
+                    <name>melvini</name>
+                    <uri>https://melvini.com/</uri>
+                    <email>allen897577@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    
+    <summary type="html"><![CDATA[用料 鸡蛋：4个 面粉：140g（适量即可，注意鸡蛋与面粉的比例即可，本人会多放鸡蛋，味……]]></summary>
+            
+                <content type="html"><![CDATA[<p><img src="/media/jidanbing.png" alt="鸡蛋饼"></p>
+<h3 id="用料">用料</h3>
+<ul>
+<li>鸡蛋：4个</li>
+<li>面粉：140g（适量即可，注意鸡蛋与面粉的比例即可，本人会多放鸡蛋，味道更好些）</li>
+<li>葱花、盐、水（适量即可）</li>
+</ul>
+<h4 id="步骤">步骤</h4>
+<ol>
+<li>鸡蛋打匀</li>
+<li>碗中：加入面粉、打匀的鸡蛋液</li>
+<li>添加水、盐，至浓稠度适中，加入葱花，搅拌均匀</li>
+<li>锅内放少许油，将鸡蛋面糊沿着锅，绕一圈倒入</li>
+<li>用锅铲，将面糊往锅中心铺匀</li>
+<li>小火慢煎，反复翻面</li>
+</ol>
+<p>​</p>
+]]></content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://melvini.com/categories/cook/" term="cook" label="cook" />
+                            
+                        
+                    
+                
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">把一生当做整体</title>
+            <link rel="alternate" type="text/html" href="https://melvini.com/life/%E6%8A%8A%E4%B8%80%E7%94%9F%E5%BD%93%E5%81%9A%E6%95%B4%E4%BD%93/" />
+            <id>https://melvini.com/life/%E6%8A%8A%E4%B8%80%E7%94%9F%E5%BD%93%E5%81%9A%E6%95%B4%E4%BD%93/</id>
+            <updated>2020-04-14T22:36:15+08:00</updated>
+            <published>2020-02-02T22:46:16+08:00</published>
+            <author>
+                    <name>melvini</name>
+                    <uri>https://melvini.com/</uri>
+                    <email>allen897577@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    
+    <summary type="html"><![CDATA[「一个人若能够把自己的一生看作一个整体，就能够激发出自身潜在的勇气和能力，就能够在人……]]></summary>
+            
+                <content type="html"><![CDATA[<blockquote>
+<p>「一个人若能够把自己的一生看作一个整体，就能够激发出自身潜在的勇气和能力，就能够在人生的岔路口做出正确选择，把握自己的命运。」</p>
+</blockquote>
+<p>　　</p>
+]]></content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://melvini.com/categories/life/" term="life" label="life" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://melvini.com/tags/diary/" term="diary" label="diary" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">衣物收纳技巧</title>
+            <link rel="alternate" type="text/html" href="https://melvini.com/life/%E8%A1%A3%E7%89%A9%E6%94%B6%E7%BA%B3/" />
+            <id>https://melvini.com/life/%E8%A1%A3%E7%89%A9%E6%94%B6%E7%BA%B3/</id>
+            <updated>2020-04-14T22:50:26+08:00</updated>
+            <published>2020-01-15T10:45:50+08:00</published>
+            <author>
+                    <name>melvini</name>
+                    <uri>https://melvini.com/</uri>
+                    <email>allen897577@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    
+    <summary type="html"><![CDATA[短袖类： tip：一只手先抓住点1，另一只手抓住点3与点2重叠，拎起来抖动后放下对折，……]]></summary>
+            
+                <content type="html"><![CDATA[<ul>
+<li>
+<p>短袖类：</p>
+<blockquote>
+<p>tip：一只手先抓住点1，另一只手抓住点3与点2重叠，拎起来抖动后放下对折，完成！</p>
+</blockquote>
+<p><img src="/media/dx.JPG" alt="dx"></p>
+</li>
+<li>
+<p>长袖/毛衣类：</p>
+<p><img src="/media/cs.GIF" alt="cs"></p>
+</li>
+<li>
+<p>卫衣类：</p>
+<p><img src="/media/wy.GIF" alt="wy"></p>
+</li>
+<li>
+<p>裤子类：</p>
+<p><img src="/media/kz.GIF" alt="kz"></p>
+</li>
+<li>
+<p>袜子类：</p>
+<p><img src="/media/cw.GIF" alt="cw"></p>
+<p><img src="/media/dw.GIF" alt="dw"></p>
+</li>
+<li>
+<p>内裤类：</p>
+<p><img src="/media/nk.GIF" alt="nk"></p>
+</li>
+</ul>
+]]></content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://melvini.com/categories/life/" term="life" label="life" />
+                            
+                        
+                    
+                
+                    
+                
+            
+        </entry>
+    
+        <entry>
             <title type="text">我的事说来话长</title>
-            <link rel="alternate" type="text/html" href="https://melvini.com/notes/%E6%88%91%E7%9A%84%E4%BA%8B%E8%AF%B4%E6%9D%A5%E8%AF%9D%E9%95%BF/" />
-            <id>https://melvini.com/notes/%E6%88%91%E7%9A%84%E4%BA%8B%E8%AF%B4%E6%9D%A5%E8%AF%9D%E9%95%BF/</id>
-            <updated>2020-03-29T20:38:08+08:00</updated>
+            <link rel="alternate" type="text/html" href="https://melvini.com/life/%E6%88%91%E7%9A%84%E4%BA%8B%E8%AF%B4%E6%9D%A5%E8%AF%9D%E9%95%BF/" />
+            <id>https://melvini.com/life/%E6%88%91%E7%9A%84%E4%BA%8B%E8%AF%B4%E6%9D%A5%E8%AF%9D%E9%95%BF/</id>
+            <updated>2020-04-14T22:50:22+08:00</updated>
             <published>2019-12-15T10:45:50+08:00</published>
             <author>
                     <name>melvini</name>
@@ -50,7 +220,7 @@
                             
                             
                             
-                                <category scheme="https://melvini.com/categories/notes/" term="notes" label="notes" />
+                                <category scheme="https://melvini.com/categories/life/" term="life" label="life" />
                             
                         
                     
@@ -70,9 +240,9 @@
     
         <entry>
             <title type="text">人间失格</title>
-            <link rel="alternate" type="text/html" href="https://melvini.com/notes/%E4%BA%BA%E9%97%B4%E5%A4%B1%E6%A0%BC/" />
-            <id>https://melvini.com/notes/%E4%BA%BA%E9%97%B4%E5%A4%B1%E6%A0%BC/</id>
-            <updated>2020-03-29T20:46:07+08:00</updated>
+            <link rel="alternate" type="text/html" href="https://melvini.com/life/%E4%BA%BA%E9%97%B4%E5%A4%B1%E6%A0%BC/" />
+            <id>https://melvini.com/life/%E4%BA%BA%E9%97%B4%E5%A4%B1%E6%A0%BC/</id>
+            <updated>2020-04-14T22:50:18+08:00</updated>
             <published>2019-11-28T10:45:50+08:00</published>
             <author>
                     <name>melvini</name>
@@ -107,7 +277,7 @@
                             
                             
                             
-                                <category scheme="https://melvini.com/categories/notes/" term="notes" label="notes" />
+                                <category scheme="https://melvini.com/categories/life/" term="life" label="life" />
                             
                         
                     
@@ -1625,60 +1795,10 @@ foreach (getRows($file) as $row) {
         </entry>
     
         <entry>
-            <title type="text">活在当下</title>
-            <link rel="alternate" type="text/html" href="https://melvini.com/life/%E6%B4%BB%E5%9C%A8%E5%BD%93%E4%B8%8B/" />
-            <id>https://melvini.com/life/%E6%B4%BB%E5%9C%A8%E5%BD%93%E4%B8%8B/</id>
-            <updated>2020-03-29T23:33:27+08:00</updated>
-            <published>2018-03-18T22:46:16+08:00</published>
-            <author>
-                    <name>melvini</name>
-                    <uri>https://melvini.com/</uri>
-                    <email>allen897577@gmail.com</email>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
-    
-    <summary type="html"><![CDATA[这世上唯有病痛和亲友去世是真切的痛楚，其他都是不必要的伤感。是忽略了当下拥有的一切的……]]></summary>
-            
-                <content type="html"><![CDATA[<p><img src="/media/livet.jpg" alt="活在当下"></p>
-<p>这世上唯有病痛和亲友去世是真切的痛楚，其他都是不必要的伤感。是忽略了当下拥有的一切的贪婪。&quot;
-说得太好了。
-有时候我们痛苦，也是因为现实距离目标太远，而本来，现实已经十分美好</p>
-<p>​</p>
-]]></content>
-            
-            
-            
-            
-            
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://melvini.com/categories/life/" term="life" label="life" />
-                            
-                        
-                    
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://melvini.com/tags/diary/" term="diary" label="diary" />
-                            
-                        
-                    
-                
-            
-        </entry>
-    
-        <entry>
             <title type="text">回忆小屋</title>
-            <link rel="alternate" type="text/html" href="https://melvini.com/notes/%E5%9B%9E%E5%BF%86%E5%B0%8F%E5%B1%8B/" />
-            <id>https://melvini.com/notes/%E5%9B%9E%E5%BF%86%E5%B0%8F%E5%B1%8B/</id>
-            <updated>2020-03-29T23:41:46+08:00</updated>
+            <link rel="alternate" type="text/html" href="https://melvini.com/life/%E5%9B%9E%E5%BF%86%E5%B0%8F%E5%B1%8B/" />
+            <id>https://melvini.com/life/%E5%9B%9E%E5%BF%86%E5%B0%8F%E5%B1%8B/</id>
+            <updated>2020-04-14T22:50:13+08:00</updated>
             <published>2017-12-15T10:45:50+08:00</published>
             <author>
                     <name>melvini</name>
@@ -1702,7 +1822,7 @@ foreach (getRows($file) as $row) {
                             
                             
                             
-                                <category scheme="https://melvini.com/categories/notes/" term="notes" label="notes" />
+                                <category scheme="https://melvini.com/categories/life/" term="life" label="life" />
                             
                         
                     
