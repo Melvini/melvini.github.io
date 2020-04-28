@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">melvini</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2020-04-26T10:13:21+08:00</updated>
+    <updated>2020-04-28T18:33:41+08:00</updated>
     <id>https://melvini.com/</id>
     <link rel="alternate" type="text/html" href="https://melvini.com/" />
     <link rel="self" type="application/atom+xml" href="https://melvini.com/atom.xml" />
@@ -17,46 +17,10 @@
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.65.3">Hugo</generator>
         <entry>
-            <title type="text">千层蛋糕</title>
-            <link rel="alternate" type="text/html" href="https://melvini.com/cook/%E5%8D%83%E5%B1%82%E8%9B%8B%E7%B3%95/" />
-            <id>https://melvini.com/cook/%E5%8D%83%E5%B1%82%E8%9B%8B%E7%B3%95/</id>
-            <updated>2020-04-25T19:59:29+08:00</updated>
-            <published>2020-03-18T22:46:16+08:00</published>
-            <author>
-                    <name>melvini</name>
-                    <uri>https://melvini.com/</uri>
-                    <email>allen897577@gmail.com</email>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html"><![CDATA[​]]></summary>
-            
-                <content type="html"><![CDATA[<p>​</p>
-]]></content>
-            
-            
-            
-            
-            
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://melvini.com/categories/cook/" term="cook" label="cook" />
-                            
-                        
-                    
-                
-                    
-                
-            
-        </entry>
-    
-        <entry>
             <title type="text">把一生当做整体</title>
             <link rel="alternate" type="text/html" href="https://melvini.com/life/%E6%8A%8A%E4%B8%80%E7%94%9F%E5%BD%93%E5%81%9A%E6%95%B4%E4%BD%93/" />
             <id>https://melvini.com/life/%E6%8A%8A%E4%B8%80%E7%94%9F%E5%BD%93%E5%81%9A%E6%95%B4%E4%BD%93/</id>
-            <updated>2020-04-14T22:36:15+08:00</updated>
+            <updated>2020-04-28T17:39:02+08:00</updated>
             <published>2020-02-02T22:46:16+08:00</published>
             <author>
                     <name>melvini</name>
@@ -67,9 +31,7 @@
     
     <summary type="html"><![CDATA[「一个人若能够把自己的一生看作一个整体，就能够激发出自身潜在的勇气和能力，就能够在人……]]></summary>
             
-                <content type="html"><![CDATA[<blockquote>
-<p>「一个人若能够把自己的一生看作一个整体，就能够激发出自身潜在的勇气和能力，就能够在人生的岔路口做出正确选择，把握自己的命运。」</p>
-</blockquote>
+                <content type="html"><![CDATA[<p>「一个人若能够把自己的一生看作一个整体，就能够激发出自身潜在的勇气和能力，就能够在人生的岔路口做出正确选择，把握自己的命运。」</p>
 <p>　　</p>
 ]]></content>
             
@@ -174,7 +136,7 @@
             <title type="text">《我的事说来话长》</title>
             <link rel="alternate" type="text/html" href="https://melvini.com/life/%E6%88%91%E7%9A%84%E4%BA%8B%E8%AF%B4%E6%9D%A5%E8%AF%9D%E9%95%BF/" />
             <id>https://melvini.com/life/%E6%88%91%E7%9A%84%E4%BA%8B%E8%AF%B4%E6%9D%A5%E8%AF%9D%E9%95%BF/</id>
-            <updated>2020-04-25T20:33:11+08:00</updated>
+            <updated>2020-04-28T17:40:24+08:00</updated>
             <published>2019-12-15T10:45:50+08:00</published>
             <author>
                     <name>melvini</name>
@@ -183,15 +145,15 @@
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     
-    <summary type="html"><![CDATA[31岁啃老男，创业失败后在家啃老六年。美其名曰：只是在寻找自己想做的事情。只不过，找……]]></summary>
+    <summary type="html"><![CDATA[三十一岁啃老男，创业失败后在家啃老六年。美其名曰：只是在寻找自己想做的事情。只不过，……]]></summary>
             
                 <content type="html"><![CDATA[<p><img src="/media/wodeshi.jpg" alt="我的事"></p>
-<p>　　31岁啃老男，创业失败后在家啃老六年。美其名曰：只是在寻找自己想做的事情。只不过，找了六年还没找到而已。</p>
-<p>　　倘若家里的财产足以支撑基本的生活开支（比如，在一线城市住着一套房子，还有一套收租金这种规模的迷你资本家），人到底为什么要工作？</p>
-<p>　　所以，人到底为什么要工作？或者说，为什么要努力工作？最简单的答案：为了吃饱喝足，为了更好的生活。再正当不过的理由。如果家里揭不开锅，当然得工作，工地上的工人，公园里的保姆，没有余裕去思考这个问题，他们没有不工作这个选项。</p>
-<p>　　倒数第二集，男主角在工作日的街上看着工作的人们，搬家公司的工人，店里的伙计，大家都在勤勤恳恳地做着平凡的工作，努力过好自己的生活。男主角流着泪向社会迈出的这一步，大概也是一种充满无奈的成长。
+<p>三十一岁啃老男，创业失败后在家啃老六年。美其名曰：只是在寻找自己想做的事情。只不过，找了六年还没找到而已。</p>
+<p>倘若家里的财产足以支撑基本的生活开支（比如，在一线城市住着一套房子，还有一套收租金这种规模的迷你资本家），人到底为什么要工作？</p>
+<p>所以，人到底为什么要工作？或者说，为什么要努力工作？最简单的答案：为了吃饱喝足，为了更好的生活。再正当不过的理由。如果家里揭不开锅，当然得工作，工地上的工人，公园里的保姆，没有余裕去思考这个问题，他们没有不工作这个选项。</p>
+<p>倒数第二集，男主角在工作日的街上看着工作的人们，搬家公司的工人，店里的伙计，大家都在勤勤恳恳地做着平凡的工作，努力过好自己的生活。男主角流着泪向社会迈出的这一步，大概也是一种充满无奈的成长。
 工作只是工作，如此而已。就算不能实现梦想，也可以养活自己，让母亲放心，让姐姐开心。下班之后，可以更心安理得地回到家，和家人一起享受美味的食物，讲着好笑的废话，如同扫地机器人回到充电桩一样。</p>
-<p>　　不是为了无尽的物质欲望，也不是为了梦想的空洞说辞，更不是为了国家富强民族振兴，而是想要作为一个社会人得到亲人朋友的认可。</p>
+<p>不是为了无尽的物质欲望，也不是为了梦想的空洞说辞，更不是为了国家富强民族振兴，而是想要作为一个社会人得到亲人朋友的认可。</p>
 ]]></content>
             
             
@@ -281,9 +243,9 @@
     
         <entry>
             <title type="text">灌汤包</title>
-            <link rel="alternate" type="text/html" href="https://melvini.com/cook/%E7%81%8C%E6%B1%A4%E5%8C%85/" />
-            <id>https://melvini.com/cook/%E7%81%8C%E6%B1%A4%E5%8C%85/</id>
-            <updated>2020-04-06T11:30:58+08:00</updated>
+            <link rel="alternate" type="text/html" href="https://melvini.com/life/%E7%81%8C%E6%B1%A4%E5%8C%85/" />
+            <id>https://melvini.com/life/%E7%81%8C%E6%B1%A4%E5%8C%85/</id>
+            <updated>2020-04-27T17:48:17+08:00</updated>
             <published>2019-10-18T22:46:16+08:00</published>
             <author>
                     <name>melvini</name>
@@ -342,7 +304,7 @@
                             
                             
                             
-                                <category scheme="https://melvini.com/categories/cook/" term="cook" label="cook" />
+                                <category scheme="https://melvini.com/categories/life/" term="life" label="life" />
                             
                         
                     
@@ -354,9 +316,9 @@
     
         <entry>
             <title type="text">迁移到hugo</title>
-            <link rel="alternate" type="text/html" href="https://melvini.com/coding/%E8%BF%81%E7%A7%BB%E5%88%B0hugo/" />
-            <id>https://melvini.com/coding/%E8%BF%81%E7%A7%BB%E5%88%B0hugo/</id>
-            <updated>2020-03-29T15:19:12+08:00</updated>
+            <link rel="alternate" type="text/html" href="https://melvini.com/tech/%E8%BF%81%E7%A7%BB%E5%88%B0hugo/" />
+            <id>https://melvini.com/tech/%E8%BF%81%E7%A7%BB%E5%88%B0hugo/</id>
+            <updated>2020-04-27T18:25:59+08:00</updated>
             <published>2019-09-15T00:23:08+08:00</published>
             <author>
                     <name>melvini</name>
@@ -479,7 +441,7 @@ hugo server
                             
                             
                             
-                                <category scheme="https://melvini.com/categories/coding/" term="coding" label="coding" />
+                                <category scheme="https://melvini.com/categories/tech/" term="tech" label="tech" />
                             
                         
                     
@@ -499,9 +461,9 @@ hugo server
     
         <entry>
             <title type="text">使用supervisor管理进程</title>
-            <link rel="alternate" type="text/html" href="https://melvini.com/coding/supervisor%E7%AE%A1%E7%90%86%E8%BF%9B%E7%A8%8B/" />
-            <id>https://melvini.com/coding/supervisor%E7%AE%A1%E7%90%86%E8%BF%9B%E7%A8%8B/</id>
-            <updated>2020-03-28T14:19:13+08:00</updated>
+            <link rel="alternate" type="text/html" href="https://melvini.com/tech/supervisor%E7%AE%A1%E7%90%86%E8%BF%9B%E7%A8%8B/" />
+            <id>https://melvini.com/tech/supervisor%E7%AE%A1%E7%90%86%E8%BF%9B%E7%A8%8B/</id>
+            <updated>2020-04-27T18:26:27+08:00</updated>
             <published>2019-09-02T16:08:25+08:00</published>
             <author>
                     <name>melvini</name>
@@ -656,7 +618,7 @@ $ supervisorctl update
                             
                             
                             
-                                <category scheme="https://melvini.com/categories/coding/" term="coding" label="coding" />
+                                <category scheme="https://melvini.com/categories/tech/" term="tech" label="tech" />
                             
                         
                     
@@ -728,9 +690,9 @@ $ supervisorctl update
     
         <entry>
             <title type="text">laravel框架</title>
-            <link rel="alternate" type="text/html" href="https://melvini.com/coding/laravel%E6%A1%86%E6%9E%B6/" />
-            <id>https://melvini.com/coding/laravel%E6%A1%86%E6%9E%B6/</id>
-            <updated>2020-03-28T10:39:10+08:00</updated>
+            <link rel="alternate" type="text/html" href="https://melvini.com/tech/laravel%E6%A1%86%E6%9E%B6/" />
+            <id>https://melvini.com/tech/laravel%E6%A1%86%E6%9E%B6/</id>
+            <updated>2020-04-27T18:26:10+08:00</updated>
             <published>2019-06-03T17:39:39+08:00</published>
             <author>
                     <name>melvini</name>
@@ -1109,7 +1071,7 @@ $api-&gt;post(&#39;main&#39;, &#39;mainController&#39;)
                             
                             
                             
-                                <category scheme="https://melvini.com/categories/coding/" term="coding" label="coding" />
+                                <category scheme="https://melvini.com/categories/tech/" term="tech" label="tech" />
                             
                         
                     
@@ -1135,9 +1097,9 @@ $api-&gt;post(&#39;main&#39;, &#39;mainController&#39;)
     
         <entry>
             <title type="text">葱花鸡蛋饼</title>
-            <link rel="alternate" type="text/html" href="https://melvini.com/cook/%E8%91%B1%E8%8A%B1%E9%B8%A1%E8%9B%8B%E9%A5%BC/" />
-            <id>https://melvini.com/cook/%E8%91%B1%E8%8A%B1%E9%B8%A1%E8%9B%8B%E9%A5%BC/</id>
-            <updated>2020-04-05T22:21:00+08:00</updated>
+            <link rel="alternate" type="text/html" href="https://melvini.com/life/%E8%91%B1%E8%8A%B1%E9%B8%A1%E8%9B%8B%E9%A5%BC/" />
+            <id>https://melvini.com/life/%E8%91%B1%E8%8A%B1%E9%B8%A1%E8%9B%8B%E9%A5%BC/</id>
+            <updated>2020-04-27T17:48:10+08:00</updated>
             <published>2019-03-18T22:46:16+08:00</published>
             <author>
                     <name>melvini</name>
@@ -1177,7 +1139,7 @@ $api-&gt;post(&#39;main&#39;, &#39;mainController&#39;)
                             
                             
                             
-                                <category scheme="https://melvini.com/categories/cook/" term="cook" label="cook" />
+                                <category scheme="https://melvini.com/categories/life/" term="life" label="life" />
                             
                         
                     
@@ -1189,9 +1151,9 @@ $api-&gt;post(&#39;main&#39;, &#39;mainController&#39;)
     
         <entry>
             <title type="text">使用charles抓包</title>
-            <link rel="alternate" type="text/html" href="https://melvini.com/coding/charles%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/" />
-            <id>https://melvini.com/coding/charles%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/</id>
-            <updated>2020-03-28T14:25:08+08:00</updated>
+            <link rel="alternate" type="text/html" href="https://melvini.com/tech/charles%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/" />
+            <id>https://melvini.com/tech/charles%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/</id>
+            <updated>2020-04-27T18:26:12+08:00</updated>
             <published>2019-03-05T00:32:33+08:00</published>
             <author>
                     <name>melvini</name>
@@ -1246,7 +1208,7 @@ $api-&gt;post(&#39;main&#39;, &#39;mainController&#39;)
                             
                             
                             
-                                <category scheme="https://melvini.com/categories/coding/" term="coding" label="coding" />
+                                <category scheme="https://melvini.com/categories/tech/" term="tech" label="tech" />
                             
                         
                     
@@ -1266,9 +1228,9 @@ $api-&gt;post(&#39;main&#39;, &#39;mainController&#39;)
     
         <entry>
             <title type="text">浅谈php生成器</title>
-            <link rel="alternate" type="text/html" href="https://melvini.com/coding/php%E7%94%9F%E6%88%90%E5%99%A8/" />
-            <id>https://melvini.com/coding/php%E7%94%9F%E6%88%90%E5%99%A8/</id>
-            <updated>2020-03-28T12:16:14+08:00</updated>
+            <link rel="alternate" type="text/html" href="https://melvini.com/tech/php%E7%94%9F%E6%88%90%E5%99%A8/" />
+            <id>https://melvini.com/tech/php%E7%94%9F%E6%88%90%E5%99%A8/</id>
+            <updated>2020-04-27T18:26:22+08:00</updated>
             <published>2018-11-03T16:24:58+08:00</published>
             <author>
                     <name>melvini</name>
@@ -1431,7 +1393,7 @@ foreach (getRows($file) as $row) {
                             
                             
                             
-                                <category scheme="https://melvini.com/categories/coding/" term="coding" label="coding" />
+                                <category scheme="https://melvini.com/categories/tech/" term="tech" label="tech" />
                             
                         
                     
@@ -1451,9 +1413,9 @@ foreach (getRows($file) as $row) {
     
         <entry>
             <title type="text">mysql索引整理及慢查询优化</title>
-            <link rel="alternate" type="text/html" href="https://melvini.com/coding/mysql%E7%B4%A2%E5%BC%95%E6%95%B4%E7%90%86%E5%8F%8A%E6%85%A2%E6%9F%A5%E8%AF%A2%E4%BC%98%E5%8C%96/" />
-            <id>https://melvini.com/coding/mysql%E7%B4%A2%E5%BC%95%E6%95%B4%E7%90%86%E5%8F%8A%E6%85%A2%E6%9F%A5%E8%AF%A2%E4%BC%98%E5%8C%96/</id>
-            <updated>2020-03-28T12:16:08+08:00</updated>
+            <link rel="alternate" type="text/html" href="https://melvini.com/tech/mysql%E7%B4%A2%E5%BC%95%E6%95%B4%E7%90%86%E5%8F%8A%E6%85%A2%E6%9F%A5%E8%AF%A2%E4%BC%98%E5%8C%96/" />
+            <id>https://melvini.com/tech/mysql%E7%B4%A2%E5%BC%95%E6%95%B4%E7%90%86%E5%8F%8A%E6%85%A2%E6%9F%A5%E8%AF%A2%E4%BC%98%E5%8C%96/</id>
+            <updated>2020-04-27T18:26:17+08:00</updated>
             <published>2018-06-29T16:39:35+08:00</published>
             <author>
                     <name>melvini</name>
@@ -1535,7 +1497,7 @@ foreach (getRows($file) as $row) {
                             
                             
                             
-                                <category scheme="https://melvini.com/categories/coding/" term="coding" label="coding" />
+                                <category scheme="https://melvini.com/categories/tech/" term="tech" label="tech" />
                             
                         
                     
@@ -1555,9 +1517,9 @@ foreach (getRows($file) as $row) {
     
         <entry>
             <title type="text">常用的sql函数整理</title>
-            <link rel="alternate" type="text/html" href="https://melvini.com/coding/sql%E5%87%BD%E6%95%B0/" />
-            <id>https://melvini.com/coding/sql%E5%87%BD%E6%95%B0/</id>
-            <updated>2020-03-28T12:16:15+08:00</updated>
+            <link rel="alternate" type="text/html" href="https://melvini.com/tech/sql%E5%87%BD%E6%95%B0/" />
+            <id>https://melvini.com/tech/sql%E5%87%BD%E6%95%B0/</id>
+            <updated>2020-04-27T18:26:24+08:00</updated>
             <published>2018-05-23T18:35:39+08:00</published>
             <author>
                     <name>melvini</name>
@@ -1703,7 +1665,7 @@ foreach (getRows($file) as $row) {
                             
                             
                             
-                                <category scheme="https://melvini.com/categories/coding/" term="coding" label="coding" />
+                                <category scheme="https://melvini.com/categories/tech/" term="tech" label="tech" />
                             
                         
                     
@@ -1723,9 +1685,9 @@ foreach (getRows($file) as $row) {
     
         <entry>
             <title type="text">alfred使用</title>
-            <link rel="alternate" type="text/html" href="https://melvini.com/coding/alfred%E4%BD%BF%E7%94%A8/" />
-            <id>https://melvini.com/coding/alfred%E4%BD%BF%E7%94%A8/</id>
-            <updated>2020-03-28T10:39:08+08:00</updated>
+            <link rel="alternate" type="text/html" href="https://melvini.com/tech/alfred%E4%BD%BF%E7%94%A8/" />
+            <id>https://melvini.com/tech/alfred%E4%BD%BF%E7%94%A8/</id>
+            <updated>2020-04-27T18:26:13+08:00</updated>
             <published>2018-05-02T16:32:54+08:00</published>
             <author>
                     <name>melvini</name>
@@ -1760,7 +1722,7 @@ foreach (getRows($file) as $row) {
                             
                             
                             
-                                <category scheme="https://melvini.com/categories/coding/" term="coding" label="coding" />
+                                <category scheme="https://melvini.com/categories/tech/" term="tech" label="tech" />
                             
                         
                     
@@ -1826,9 +1788,9 @@ foreach (getRows($file) as $row) {
     
         <entry>
             <title type="text">php常见错误及使用</title>
-            <link rel="alternate" type="text/html" href="https://melvini.com/coding/php%E5%B8%B8%E8%A7%81%E9%94%99%E8%AF%AF/" />
-            <id>https://melvini.com/coding/php%E5%B8%B8%E8%A7%81%E9%94%99%E8%AF%AF/</id>
-            <updated>2020-03-28T12:16:13+08:00</updated>
+            <link rel="alternate" type="text/html" href="https://melvini.com/tech/php%E5%B8%B8%E8%A7%81%E9%94%99%E8%AF%AF/" />
+            <id>https://melvini.com/tech/php%E5%B8%B8%E8%A7%81%E9%94%99%E8%AF%AF/</id>
+            <updated>2020-04-27T18:26:19+08:00</updated>
             <published>2017-11-03T16:24:58+08:00</published>
             <author>
                     <name>melvini</name>
@@ -1927,7 +1889,7 @@ $stmt-&gt;bindParam(2, $value);
                             
                             
                             
-                                <category scheme="https://melvini.com/categories/coding/" term="coding" label="coding" />
+                                <category scheme="https://melvini.com/categories/tech/" term="tech" label="tech" />
                             
                         
                     
@@ -1947,9 +1909,9 @@ $stmt-&gt;bindParam(2, $value);
     
         <entry>
             <title type="text">一些常用的git命令</title>
-            <link rel="alternate" type="text/html" href="https://melvini.com/coding/git%E6%93%8D%E4%BD%9C/" />
-            <id>https://melvini.com/coding/git%E6%93%8D%E4%BD%9C/</id>
-            <updated>2020-03-29T15:25:04+08:00</updated>
+            <link rel="alternate" type="text/html" href="https://melvini.com/tech/git%E6%93%8D%E4%BD%9C/" />
+            <id>https://melvini.com/tech/git%E6%93%8D%E4%BD%9C/</id>
+            <updated>2020-04-27T18:26:11+08:00</updated>
             <published>2017-06-29T16:39:35+08:00</published>
             <author>
                     <name>melvini</name>
@@ -2063,7 +2025,7 @@ git remote set-url --add origin https://url
                             
                             
                             
-                                <category scheme="https://melvini.com/categories/coding/" term="coding" label="coding" />
+                                <category scheme="https://melvini.com/categories/tech/" term="tech" label="tech" />
                             
                         
                     
