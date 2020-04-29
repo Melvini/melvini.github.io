@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">melvini</title>
     <subtitle type="html">这是一个记录技术与生活的博客</subtitle>
-    <updated>2020-04-29T11:47:39+08:00</updated>
+    <updated>2020-04-29T14:12:01+08:00</updated>
     <id>https://melvini.com/</id>
     <link rel="alternate" type="text/html" href="https://melvini.com/" />
     <link rel="self" type="application/atom+xml" href="https://melvini.com/atom.xml" />
@@ -22,12 +22,8 @@
             <id>https://melvini.com/life/%E6%8A%8A%E4%B8%80%E7%94%9F%E5%BD%93%E5%81%9A%E6%95%B4%E4%BD%93/</id>
             <updated>2020-04-29T09:49:20+08:00</updated>
             <published>2020-02-02T22:46:16+08:00</published>
-            <author>
-                    <name>melvini</name>
-                    <uri>https://melvini.com/</uri>
-                    <email>allen897577@gmail.com</email>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+            
+            
     
     <summary type="html"><![CDATA[「一个人若能够把自己的一生看作一个整体，就能够激发出自身潜在的勇气和能力，就能够在人……]]></summary>
             
@@ -69,12 +65,8 @@
             <id>https://melvini.com/life/%E8%A1%A3%E7%89%A9%E6%94%B6%E7%BA%B3/</id>
             <updated>2020-04-25T20:37:14+08:00</updated>
             <published>2020-01-15T10:45:50+08:00</published>
-            <author>
-                    <name>melvini</name>
-                    <uri>https://melvini.com/</uri>
-                    <email>allen897577@gmail.com</email>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+            
+            
     
     <summary type="html"><![CDATA[最近整理了下自己的衣柜，发现长这么大了，尽然不知如何叠好衣服。将衣服叠得整洁、好看，……]]></summary>
             
@@ -138,12 +130,8 @@
             <id>https://melvini.com/life/%E6%88%91%E7%9A%84%E4%BA%8B%E8%AF%B4%E6%9D%A5%E8%AF%9D%E9%95%BF/</id>
             <updated>2020-04-28T17:40:24+08:00</updated>
             <published>2019-12-15T10:45:50+08:00</published>
-            <author>
-                    <name>melvini</name>
-                    <uri>https://melvini.com/</uri>
-                    <email>allen897577@gmail.com</email>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+            
+            
     
     <summary type="html"><![CDATA[三十一岁啃老男，创业失败后在家啃老六年。美其名曰：只是在寻找自己想做的事情。只不过，……]]></summary>
             
@@ -190,12 +178,8 @@
             <id>https://melvini.com/life/%E4%BA%BA%E9%97%B4%E5%A4%B1%E6%A0%BC/</id>
             <updated>2020-04-25T20:33:05+08:00</updated>
             <published>2019-11-28T10:45:50+08:00</published>
-            <author>
-                    <name>melvini</name>
-                    <uri>https://melvini.com/</uri>
-                    <email>allen897577@gmail.com</email>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+            
+            
     
     <summary type="html"><![CDATA[最近网上冲浪的时候，经常能看到'生而为人，我很抱歉'这句话，出自太宰治的《人间失格》……]]></summary>
             
@@ -247,12 +231,8 @@
             <id>https://melvini.com/life/%E7%81%8C%E6%B1%A4%E5%8C%85/</id>
             <updated>2020-04-27T17:48:17+08:00</updated>
             <published>2019-10-18T22:46:16+08:00</published>
-            <author>
-                    <name>melvini</name>
-                    <uri>https://melvini.com/</uri>
-                    <email>allen897577@gmail.com</email>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+            
+            
     
     <summary type="html"><![CDATA[用料 猪皮冻 将猪皮洗干净，然后煮十分钟，刮干净肥肉和猪毛 用水冲净后，冷水下锅煮十分钟左……]]></summary>
             
@@ -320,12 +300,8 @@
             <id>https://melvini.com/tech/%E8%BF%81%E7%A7%BB%E5%88%B0hugo/</id>
             <updated>2020-04-27T18:25:59+08:00</updated>
             <published>2019-09-15T00:23:08+08:00</published>
-            <author>
-                    <name>melvini</name>
-                    <uri>https://melvini.com/</uri>
-                    <email>allen897577@gmail.com</email>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+            
+            
     
     <summary type="html"><![CDATA[Hugo安装 1 2 3 4 5 6 7 # 安装 brew install hugo # 生成站点 hugo new site ./myblog 安装主题 1 2 3 4 5 6 7 8 9 #……]]></summary>
             
@@ -465,12 +441,8 @@ hugo server
             <id>https://melvini.com/tech/supervisor%E7%AE%A1%E7%90%86%E8%BF%9B%E7%A8%8B/</id>
             <updated>2020-04-27T18:26:27+08:00</updated>
             <published>2019-09-02T16:08:25+08:00</published>
-            <author>
-                    <name>melvini</name>
-                    <uri>https://melvini.com/</uri>
-                    <email>allen897577@gmail.com</email>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+            
+            
     
     <summary type="html"><![CDATA[最近有一些常驻内存的php脚本，为了便于管理进程的开关重启，使用了superviso……]]></summary>
             
@@ -642,12 +614,8 @@ $ supervisorctl update
             <id>https://melvini.com/life/%E5%B9%B8%E7%A6%8F%E6%84%9F%E7%9A%84%E9%87%8D%E8%A6%81%E6%80%A7/</id>
             <updated>2020-04-25T20:37:29+08:00</updated>
             <published>2019-07-02T22:46:16+08:00</published>
-            <author>
-                    <name>melvini</name>
-                    <uri>https://melvini.com/</uri>
-                    <email>allen897577@gmail.com</email>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+            
+            
     
     <summary type="html"><![CDATA[最近在微博上看到了一篇文章，讲到了作家三毛和她的一名读者之间的来信： 读者工作好多年了……]]></summary>
             
@@ -694,12 +662,8 @@ $ supervisorctl update
             <id>https://melvini.com/tech/laravel%E6%A1%86%E6%9E%B6/</id>
             <updated>2020-04-27T18:26:10+08:00</updated>
             <published>2019-06-03T17:39:39+08:00</published>
-            <author>
-                    <name>melvini</name>
-                    <uri>https://melvini.com/</uri>
-                    <email>allen897577@gmail.com</email>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+            
+            
     
     <summary type="html"><![CDATA[安装 通过laravel安装器 1 2 composer global require &#34;laravel/installer&#34; laravel new blog 通过 Composer 创建项目 配置读写权限 1 2 3 4 composer create-project……]]></summary>
             
@@ -1101,12 +1065,8 @@ $api-&gt;post(&#39;main&#39;, &#39;mainController&#39;)
             <id>https://melvini.com/life/%E8%91%B1%E8%8A%B1%E9%B8%A1%E8%9B%8B%E9%A5%BC/</id>
             <updated>2020-04-27T17:48:10+08:00</updated>
             <published>2019-03-18T22:46:16+08:00</published>
-            <author>
-                    <name>melvini</name>
-                    <uri>https://melvini.com/</uri>
-                    <email>allen897577@gmail.com</email>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+            
+            
     
     <summary type="html"><![CDATA[用料 鸡蛋：4个 面粉：140g（适量即可，注意鸡蛋与面粉的比例即可，本人会多放鸡蛋，味……]]></summary>
             
@@ -1155,12 +1115,8 @@ $api-&gt;post(&#39;main&#39;, &#39;mainController&#39;)
             <id>https://melvini.com/tech/charles%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/</id>
             <updated>2020-04-27T18:26:12+08:00</updated>
             <published>2019-03-05T00:32:33+08:00</published>
-            <author>
-                    <name>melvini</name>
-                    <uri>https://melvini.com/</uri>
-                    <email>allen897577@gmail.com</email>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+            
+            
     
     <summary type="html"><![CDATA[功能介绍 设置系统代理 选择菜单中的 “Proxy” –&gt; “Mac OS X Proxy” 来将……]]></summary>
             
@@ -1232,12 +1188,8 @@ $api-&gt;post(&#39;main&#39;, &#39;mainController&#39;)
             <id>https://melvini.com/tech/php%E7%94%9F%E6%88%90%E5%99%A8/</id>
             <updated>2020-04-27T18:26:22+08:00</updated>
             <published>2018-11-03T16:24:58+08:00</published>
-            <author>
-                    <name>melvini</name>
-                    <uri>https://melvini.com/</uri>
-                    <email>allen897577@gmail.com</email>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+            
+            
     
     <summary type="html"><![CDATA[创建 使用yield关键字，与普通的php函数不同的是，生成器不返回值，只产出值 1 2 3……]]></summary>
             
@@ -1417,12 +1369,8 @@ foreach (getRows($file) as $row) {
             <id>https://melvini.com/tech/mysql%E7%B4%A2%E5%BC%95%E6%95%B4%E7%90%86%E5%8F%8A%E6%85%A2%E6%9F%A5%E8%AF%A2%E4%BC%98%E5%8C%96/</id>
             <updated>2020-04-27T18:26:17+08:00</updated>
             <published>2018-06-29T16:39:35+08:00</published>
-            <author>
-                    <name>melvini</name>
-                    <uri>https://melvini.com/</uri>
-                    <email>allen897577@gmail.com</email>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+            
+            
     
     <summary type="html"><![CDATA[索引的类型 主键索引 primary ：主键索引是一种特殊的唯一索引，不允许有空值 普通索引 index 复合索引：……]]></summary>
             
@@ -1521,12 +1469,8 @@ foreach (getRows($file) as $row) {
             <id>https://melvini.com/tech/sql%E5%87%BD%E6%95%B0/</id>
             <updated>2020-04-27T18:26:24+08:00</updated>
             <published>2018-05-23T18:35:39+08:00</published>
-            <author>
-                    <name>melvini</name>
-                    <uri>https://melvini.com/</uri>
-                    <email>allen897577@gmail.com</email>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+            
+            
     
     <summary type="html"><![CDATA[处理时间 1 2 3 4 5 6 7 8 -- 日期转换为时间戳 select UNIX_TIMESTAMP(&#39;2019-1-31&#39;); -- 时间戳转换为日期 select FROM_UNIXTIME(&#39;1548864000&#39;,&#39;%Y%m%d&#39;); -- 格式为YMD格……]]></summary>
             
@@ -1689,12 +1633,8 @@ foreach (getRows($file) as $row) {
             <id>https://melvini.com/tech/alfred%E4%BD%BF%E7%94%A8/</id>
             <updated>2020-04-27T18:26:13+08:00</updated>
             <published>2018-05-02T16:32:54+08:00</published>
-            <author>
-                    <name>melvini</name>
-                    <uri>https://melvini.com/</uri>
-                    <email>allen897577@gmail.com</email>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+            
+            
     
     <summary type="html"><![CDATA[插件搜索 packal alfredworkflow Github 相关资料 Mac效率神器Alfred以及常用Workflow Alfred……]]></summary>
             
@@ -1746,12 +1686,8 @@ foreach (getRows($file) as $row) {
             <id>https://melvini.com/life/%E5%9B%9E%E5%BF%86%E5%B0%8F%E5%B1%8B/</id>
             <updated>2020-04-25T20:32:58+08:00</updated>
             <published>2017-12-15T10:45:50+08:00</published>
-            <author>
-                    <name>melvini</name>
-                    <uri>https://melvini.com/</uri>
-                    <email>allen897577@gmail.com</email>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html"><![CDATA[回忆就像剥洋葱，总有一层会让你落泪]]></summary>
+            
+            <summary type="html"><![CDATA[回忆就像剥洋葱，总有一层会让你落泪]]></summary>
             
                 <content type="html"><![CDATA[<p>　　回忆就像剥洋葱，总有一层会让你落泪</p>
 <p><img src="/media/p2.jpg" alt="p2"></p>
@@ -1792,12 +1728,8 @@ foreach (getRows($file) as $row) {
             <id>https://melvini.com/tech/php%E5%B8%B8%E8%A7%81%E9%94%99%E8%AF%AF/</id>
             <updated>2020-04-27T18:26:19+08:00</updated>
             <published>2017-11-03T16:24:58+08:00</published>
-            <author>
-                    <name>melvini</name>
-                    <uri>https://melvini.com/</uri>
-                    <email>allen897577@gmail.com</email>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+            
+            
     
     <summary type="html"><![CDATA[strtotime 1 date( &#34;Y-m&#34;, strtotime( &#34;+1 month&#34;,strtotime(&#34;2017-01-31&#34;))); 预期的结果是：2017-02，而实际得出的是：2017-03 原因在于二……]]></summary>
             
@@ -1913,12 +1845,8 @@ $stmt-&gt;bindParam(2, $value);
             <id>https://melvini.com/tech/git%E6%93%8D%E4%BD%9C/</id>
             <updated>2020-04-27T18:26:11+08:00</updated>
             <published>2017-06-29T16:39:35+08:00</published>
-            <author>
-                    <name>melvini</name>
-                    <uri>https://melvini.com/</uri>
-                    <email>allen897577@gmail.com</email>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+            
+            
     
     <summary type="html"><![CDATA[基本 1 2 3 4 5 6 7 8 9 10 11 12 13 git init git add . git commit -m &#34;First commit&#34; git remote add origin {远程仓库地址} git remote -v git pull……]]></summary>
             
