@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">melvini</title>
     <subtitle type="html">这是一个记录技术与生活的博客</subtitle>
-    <updated>2020-10-05T21:12:25+08:00</updated>
+    <updated>2020-10-05T21:16:53+08:00</updated>
     <id>https://melvini.com/</id>
     <link rel="alternate" type="text/html" href="https://melvini.com/" />
     <link rel="self" type="application/atom+xml" href="https://melvini.com/atom.xml" />
@@ -20,12 +20,12 @@
             <title type="text">2020</title>
             <link rel="alternate" type="text/html" href="https://melvini.com/life/2020/" />
             <id>https://melvini.com/life/2020/</id>
-            <updated>2020-10-05T21:12:02+08:00</updated>
+            <updated>2020-10-05T21:14:21+08:00</updated>
             <published>2020-05-19T20:07:08+08:00</published>
             
-            <summary type="html"><![CDATA[「 活过春夏秋的人，入冬会更想你们。 那时我们又在一个季节。 」]]></summary>
+            <summary type="html"><![CDATA[活过春夏秋的人，入冬会更想你们。 那时我们又在一个季节。 」]]></summary>
             
-                <content type="html"><![CDATA[<p>「 活过春夏秋的人，入冬会更想你们。 那时我们又在一个季节。 」</p>
+                <content type="html"><![CDATA[<p>活过春夏秋的人，入冬会更想你们。 那时我们又在一个季节。 」</p>
 ]]></content>
             
             
