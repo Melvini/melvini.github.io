@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">melvini</title>
     <subtitle type="html">这是一个记录技术与生活的博客</subtitle>
-    <updated>2020-10-07T10:31:43+08:00</updated>
+    <updated>2021-01-26T20:11:51+08:00</updated>
     <id>https://melvini.com/</id>
     <link rel="alternate" type="text/html" href="https://melvini.com/" />
     <link rel="self" type="application/atom+xml" href="https://melvini.com/atom.xml" />
@@ -895,6 +895,55 @@ $api-&gt;post(&#39;main&#39;, &#39;mainController&#39;)
             
                 <content type="html"><![CDATA[<p><img src="/media/jidanbing.png" alt="鸡蛋饼"></p>
 <h3 id="用料">用料</h3>
+<ul>
+<li>鸡蛋：4个</li>
+<li>面粉：140g（适量即可，注意鸡蛋与面粉的比例即可，本人会多放鸡蛋，味道更好些）</li>
+<li>葱花、盐、水（适量即可）</li>
+</ul>
+<h4 id="步骤">步骤</h4>
+<ol>
+<li>鸡蛋打匀</li>
+<li>碗中：加入面粉、打匀的鸡蛋液</li>
+<li>添加水、盐，至浓稠度适中，加入葱花，搅拌均匀</li>
+<li>锅内放少许油，将鸡蛋面糊沿着锅，绕一圈倒入</li>
+<li>用锅铲，将面糊往锅中心铺匀</li>
+<li>小火慢煎，反复翻面</li>
+</ol>
+<p>​</p>
+]]></content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://melvini.com/categories/life/" term="life" label="life" />
+                            
+                        
+                    
+                
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">葱花鸡蛋饼</title>
+            <link rel="alternate" type="text/html" href="https://melvini.com/life/%E9%9D%92%E6%A4%92%E8%82%89%E4%B8%9D/" />
+            <id>https://melvini.com/life/%E9%9D%92%E6%A4%92%E8%82%89%E4%B8%9D/</id>
+            <updated>2020-11-04T08:39:21+08:00</updated>
+            <published>2019-03-18T22:46:16+08:00</published>
+            
+            
+    
+    <summary type="html"><![CDATA[用料 鸡蛋：4个 面粉：140g（适量即可，注意鸡蛋与面粉的比例即可，本人会多放鸡蛋，味……]]></summary>
+            
+                <content type="html"><![CDATA[<h3 id="用料">用料</h3>
 <ul>
 <li>鸡蛋：4个</li>
 <li>面粉：140g（适量即可，注意鸡蛋与面粉的比例即可，本人会多放鸡蛋，味道更好些）</li>
